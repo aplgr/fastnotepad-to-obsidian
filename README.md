@@ -14,6 +14,11 @@ Convert Android **FastNotepad** exports into **Obsidian-ready Markdown** (one no
 - Handles the FastNotepad export quirk where the **preview** lives in the `index` block, while the **full note body** is stored separately as `_<id>` keys
 
 
+## Case study (DE)
+
+If you want the full project context (why this exists, workflow, results), [here's the write-up](https://andreploeger.com/cases/wissensinseln-konsolidiert-obsidian-git-sync?utm_source=github.com&utm_medium=readme).
+
+
 ## Requirements
 
 - Python 3.9+
